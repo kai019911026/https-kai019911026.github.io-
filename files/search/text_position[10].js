@@ -1,0 +1,1 @@
+positionForPages[10]={"page":10,"positions":[{"word":"\u5f80\u5f8c\u9918\u751f","left":0.147318,"top":0.071501,"width":0.694121,"height":0.118980},{"word":"\u7528\u751f\u547d\u53bb","left":0.111498,"top":0.248817,"width":0.428389,"height":0.067787}]};
